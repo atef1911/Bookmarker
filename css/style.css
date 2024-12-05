@@ -1,0 +1,20 @@
+body{
+    background-color: #f7ecde;
+    font-family: "PT Sans Caption", sans-serif;
+}
+
+h1{
+    font-family: "Pacifico", cursive;
+    font-weight: 800;
+    /* color: green; */
+}
+
+.bookmarker-body .container{
+    border-top: 2px dotted black;
+    border-bottom: 2px dotted black;
+}
+
+.form-control:focus {
+    box-shadow: 0 0 0 .25rem rgba(13, 253, 81, 0.25);
+}
+
